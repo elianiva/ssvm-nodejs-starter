@@ -2,7 +2,7 @@
 This is my first attempt on web assembly using Rust. It's a random color generator using css syntax. There are 3 of them which are HSL, RGB, and HEX.
 
 ## Setup using docker
-To run this app, you must pull the docker image first. To do that, simply run this commands.
+To run this app, you must pull the docker image first. To do that, simply run this command.
 
 ```
 $ docker pull secondstate/ssvm-nodejs-starter:v1
