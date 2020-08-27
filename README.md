@@ -34,4 +34,4 @@ Should return 1 rgb formatted colours like `rgb(230, 122, 43)`
 ```
 GET http://localhost:3000/?max=4&mode=hex
 ```
-Should return 1 rgb formatted colours like `#b0af3d`, `#c2ff3a`, `#02f01d`
+Should return 3 rgb formatted colours like `#b0af3d`, `#c2ff3a`, `#02f01d`
