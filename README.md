@@ -1,5 +1,6 @@
 # CSS Random Color Generator
 This is my first attempt on web assembly using Rust. It's a random color generator using css syntax. There are 3 of them which are HSL, RGB, and HEX.
+I'm using [rand](https://crates.io/crates/rand) crate to generate a random number and format it so that it looks like a css colour syntax.
 
 ## Setup using docker
 To run this app, you must pull the docker image first. To do that, simply run this command.
